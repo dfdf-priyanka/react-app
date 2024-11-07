@@ -1,0 +1,12 @@
+#parent{
+    height:100px;
+    width: 300px;
+    background-color: cadetblue;
+}
+
+#heading{
+    height:auto;
+    width:auto;
+    color:chocolate;
+    background-color: blueviolet;
+}
